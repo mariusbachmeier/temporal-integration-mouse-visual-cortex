@@ -4,7 +4,7 @@
 **Scientific Programming (Course MSB1015)**
 
 Core Question: How long does it take for the performance of a movie-decoder that is trying to discern which segment of a natural movie is playing to saturate?<br>
-This analysis yields a (visual) area's *integration window*. Its analysis runs on the [Allen Institute Visual Coding – Neuropixels](https://portal.brain-map.org/explore/circuits/visual-coding-neuropixels)
+This analysis yields a (visual) area's *integration window*. Its analysis runs on the [Allen Institute Visual Coding – Neuropixels](https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html)
 dataset, and the prediction is that integration windows lengthen going up the cortical hierarchy.<br>
 **Cortical Hierarchy**: VISp → VISl → VISrl → VISal → VISpm → VISam
 
